@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"INTRO","order":1,"parentId":0,"scrollX":1028.6666666666667,"scrollY":630},
-{"id":2,"expanded":false,"name":"STAGE_01","order":3,"parentId":0,"scrollX":1018,"scrollY":763.3333333333334},
+{"id":2,"expanded":false,"name":"STAGE_01","order":3,"parentId":0,"scrollX":1018,"scrollY":1210},
 {"id":3,"expanded":false,"name":"STAGE_02","order":4,"parentId":0,"scrollX":1018,"scrollY":630},
 {"id":4,"expanded":false,"name":"WAIT","order":2,"parentId":1,"scrollX":1028.6666666666667,"scrollY":630}
 ]
