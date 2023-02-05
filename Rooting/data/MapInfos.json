@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"INTRO","order":1,"parentId":0,"scrollX":1543,"scrollY":944},
+{"id":2,"expanded":false,"name":"STAGE_01","order":3,"parentId":0,"scrollX":1527,"scrollY":976},
+{"id":3,"expanded":false,"name":"STAGE_02","order":4,"parentId":0,"scrollX":1543,"scrollY":944},
+{"id":4,"expanded":false,"name":"WAIT","order":2,"parentId":1,"scrollX":617.2,"scrollY":377.6},
+{"id":5,"expanded":false,"name":"MAP005","order":5,"parentId":0,"scrollX":1543,"scrollY":944}
+]
