@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"elidar","characterIndex":0,"characterName":"elidar","classId":1,"equips":[3,0,7,5,6],"faceIndex":0,"faceName":"elidar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elidar","nickname":"Guardian of the Celestial Tree","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"elidar","characterIndex":0,"characterName":"elidar","classId":1,"equips":[3,0,7,5,6],"faceIndex":0,"faceName":"elidar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elidar","nickname":"Guardian of the Celestial Tree","note":"","profile":""}
+]
